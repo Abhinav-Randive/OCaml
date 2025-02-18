@@ -1,13 +1,16 @@
-My OCaml Learning Journey
+# My OCaml Learning Journey
+
 Welcome to my OCaml learning repository! This is a personal collection of notes, exercises, and projects I am working on as I explore the OCaml programming language. The purpose of this repository is to document my progress and understanding of OCaml, its unique features, and to track the concepts I’ve learned along the way.
 
-Why OCaml?
+## Why OCaml?
 I chose to learn OCaml because:
 
 Functional programming: I’m interested in learning functional programming to improve my problem-solving approach.
 Type safety: OCaml's type system helps in writing robust and efficient code, which interests me for long-term software reliability.
 Practical applications: OCaml has practical uses in compilers, theorem proving, and financial systems, which align with my interests in programming and software design.
-Learning Goals
+
+## Learning Goals
+
 My main goals in learning OCaml are:
 
 Gain a deep understanding of functional programming concepts such as immutability, higher-order functions, and recursion.
@@ -18,7 +21,7 @@ Understand the standard library and tools for building, testing, and deploying O
 Key Concepts Learned
 Here are some of the key OCaml concepts I’ve learned so far:
 
-Functional Programming
+### Functional Programming
 
 OCaml emphasizes functional programming with first-class functions, immutability, and recursion.
 Pattern Matching
